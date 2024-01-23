@@ -1,0 +1,7 @@
+/keys
+/database/usuarios.db
+/__pycache__
+/apis/__pycache__
+/utils/__pycache__
+/database/__pycache__
+/keys/__pycache__

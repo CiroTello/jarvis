@@ -1,0 +1,1 @@
+bot = telebot.TeleBot(bot_token)
